@@ -15,7 +15,8 @@ Key features include:
 # Screenshots of Google Play Store Analysis:
 
 
-![OV Dashboard](https://github.com/user-attachments/assets/330748a6-7e69-424e-90dc-e6c0e43d1aeb)
+![OV DB](https://github.com/user-attachments/assets/b7944335-a054-4029-b666-d8c77323224e)
+
 
 
 
